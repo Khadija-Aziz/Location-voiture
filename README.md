@@ -69,7 +69,7 @@ facilitant la prise de décisions stratégiques pour optimiser les revenus et la
 
 ## Lancement de l'application: 
 
-https://github.com/Khadija-Aziz/Location-voiture/blob/main/Enregistrement%20de%20l%E2%80%99%C3%A9cran%202026-03-20%20142005.mp4
+![Voir la vidéo](https://github.com/Khadija-Aziz/Location-voiture/blob/main/Enregistrement%20de%20l%E2%80%99%C3%A9cran%202026-03-20%20142005.mp4)
 
 
 
